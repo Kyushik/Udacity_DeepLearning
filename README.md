@@ -19,5 +19,5 @@ The projects of the course are as follows. :clipboard:
 * Language Translations 
 * Generative Adversarial Network(GAN) 
 
-For now, I finished project 1!! Yeah~~~ :tada::tada:
-<br> Classes for project 2 are not opened now, so I'm waiting for them. 
+For now, I finished project 3 **Generate TV Script** !! Yeah~~~ :tada::tada:
+<br>  
