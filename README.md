@@ -21,11 +21,11 @@ The core curriculum of the course for now are as follows. :notebook_with_decorat
 
 The projects of the course are as follows. ​:clipboard:​
 
-* Your First Neural Network
-* Image Classification
-* Generate TV Scripts
-* Language Translations 
-* Generative Adversarial Network(GAN) 
+* Your First Neural Network (DNN)
+* Image Classification (CNN)
+* Generate TV Scripts (RNN)
+* Language Translations (Seq2Seq)
+* Face Generation (DCGAN) 
 
 For now, I finished **All Projects**!! Yeah~~~ :tada::tada:
 
